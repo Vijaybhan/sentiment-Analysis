@@ -1,4 +1,5 @@
 # Detailed dcouments for sentiment-Analysis
+#added
 
 This is the sentiment analysis using machine learning. The model is trained on support vector machine (SVM). Also Web is  made using stremalite which is running on 
 https://ml-analysis-tool2.herokuapp.com/
